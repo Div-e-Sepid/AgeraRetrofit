@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AgeraRetrofit</string>
+    <string name="getDataButton">get data</string>
+</resources>
